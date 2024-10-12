@@ -1,5 +1,9 @@
 # Journal de bord du projet encadré
 
+lignes bidons
+lignes bidons
+lignes bidons
+
 ## exercice 1 github
 création de la repositery et du journal
 utilsation git status pour 2.b.1
