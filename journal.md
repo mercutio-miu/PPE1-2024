@@ -71,3 +71,4 @@ wait est-ce qu'il fallait retrier les locations mais pour 1 mois? jsp ces consig
 
 ## EX git ERROR seance3
 
+Cette ligne doit rester après correction
