@@ -1,9 +1,5 @@
 # Journal de bord du projet encadré
 
-lignes bidons
-lignes bidons
-lignes bidons
-
 ## exercice 1 github
 création de la repositery et du journal
 utilsation git status pour 2.b.1
@@ -72,3 +68,5 @@ wait est-ce qu'il fallait retrier les locations mais pour 1 mois? jsp ces consig
 ## EX git ERROR seance3
 
 Cette ligne doit rester après correction
+
+Mon git est sans arrêt bloqué à chaque fois que je fais les manipulations ce qui veut dire que clairement j'ai pas du tout compris comment faire donc je vais arrêter de cloner et recloner pour pouvoir recommencer à chaque fois car ça marche vraiment pas et j'attendrais des explications plus en détails pour pouvoir avoir toutes les compétences pour pouvoir gérer ce hellhole qu'est github.
