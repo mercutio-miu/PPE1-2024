@@ -1,0 +1,27 @@
+EX 1a
+
+echo "Annotations en 2016 : "> comptes.txt
+cat ../../../ann/2016/*.* | wc -c >> comptes.txt
+echo "Annotations en 2017 : " >> comptes.txt
+cat ../../../ann/2017/*.* | wc -c >> comptes.txt
+echo "Annotations en 2018 : " >> comptes.txt
+cat ../../../ann/2018/*.* | wc -c >> comptes.txt
+
+X 1b
+
+echo "Annotations de locations en 2016 :" > locations.txt
+cat ../../../ann/2016/*.*|grep "Location"|wc -c >> locations.txt
+echo "Annotations de locations en 2017 :" >> locations.txt
+cat ../../../ann/2017/*.*|grep "Location"|wc -c >> locations.txt
+echo "Annotations de locations en 2018 :" >> locations.txt
+cat ../../../ann/2018/*.*|grep "Location"|wc -c >> locations.txt
+
+EX 2a
+
+cat ../../../ann/2016/*.*|grep "Location"| cut -f 3 | uniq -c > classement2016.txt
+cat ../../../ann/2017/*.*|grep "Location"| cut -f 3 | uniq -c > classement2017.txt
+cat ../../../ann/2018/*.*|grep "Location"| cut -f 3 | uniq -c > classement2018.txt
+
+EX2b
+
+

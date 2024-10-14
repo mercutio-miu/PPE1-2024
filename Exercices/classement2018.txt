@@ -1,0 +1,2867 @@
+      1 Bretagne
+      1 Aquitaine
+      1 Corse
+      1 France
+      1 Haute-Corse
+      1 Corse-du-Sud
+      1 Bretagne
+      1 Morbihan
+      1 Pyrénées-Atlantiques
+      1 Saint-Jean-Pied-de-Port
+      1 Gironde
+      1 France
+      1 Luxembourg
+      1 France
+      1 Saint-Raphaël
+      1 Var
+      1 Italie
+      1 Rome
+      1 Londres
+      1 Bayeux
+      1 Royaume-Uni
+      1 Angleterre
+      1 France
+      1 Royaume-Uni
+      1 Bayeux
+      1 Sandhurst
+      1 Royaume-Uni
+      1 Bayeux
+      1 Hastings
+      1 France
+      1 Royaume-Uni
+      1 Canterbury
+      1 France
+      1 l'Angleterre
+      1 Royaume-Uni
+      1 Collonges-au-Mont-d'Or
+      1 Lyon
+      1 Alaska
+      1 États-Unis
+      1 Golfe d'Alaska
+      1 Kodiak
+      1 Alaska
+      1 États-Unis
+      1 Hawaï
+      1 Alaska
+      1 États-Unis
+      2 France
+      1 Vallée
+      1 Rhône
+      1 Jura
+      1 Doubs
+      1 Manche
+      1 Paris
+      2 Seine
+      1 Taipei
+      1 Paris
+      1 Seine
+      1 Paris
+      1 France
+      1 Seine
+      1 Yvelines
+      2 France
+      3 Calais
+      1 France
+      1 Var
+      1 Cabasse
+      2 Var
+      1 Bruxelles
+      1 rue du Dries
+      1 Forest
+      1 Île-de-France
+      1 rue du Dries
+      2 France
+      1 Vendée
+      1 Deux-Sèvres
+      1 Vienne
+      1 Saint-Hilaire-de-Voust
+      1 Vendée
+      1 Deux-Sèvres
+      1 Sotchi
+      1 Gangneung
+      1 Canada
+      1 Russie
+      1 États-Unis
+      1 Chine
+      1 Jiangsu
+      1 Chine
+      1 Domessin
+      1 Pont-de-Beauvoisin
+      1 Chartreuse
+      1 Saint-Franc
+      1 PyeongChang
+      1 Allemagne
+      1 PyeongChang
+      1 Sotchi
+      2 Andromède
+      1 Paris
+      2 Andromède
+      1 Paris
+      1 Andromède
+      1 Terre
+      1 Andromède
+      1 Terre
+      2 Andromède
+      1 France
+      2 Amnéville
+      1 Moselle
+      1 Bengale
+      1 Kantaji
+      1 Bengale
+      1 PyeongChang
+      1 Canada
+      1 Sotchi
+      1 Europe
+      1 Méditerranée
+      1 États-Unis
+      1 La Rochelle
+      1 Méditerranée
+      1 Tanger
+      1 Maroc
+      1 Barcelone
+      1 Espagne
+      1 Marseille
+      1 Baluwatar
+      3 Népal
+      1 SN 2016gkg
+      1 Rosario
+      1 Argentine
+      1 constellation du Sculpteur
+      1 NGC 613
+      1 Terre
+      1 Argentine
+      1 SN1987A
+      1 Californie
+      1 SN 2016gkg
+      2 Europe
+      1 Strasbourg
+      2 Europe
+      1 Strasbourg
+      1 Élysée
+      1 Europe
+      1 Royaume-Uni
+      1 Strasbourg
+      1 Southampton
+      1 Royaume-Uni
+      1 Terre
+      1 Univers
+      1 DES16C2nm
+      1 Chili
+      1 Hawaii
+      1 Univers
+      1 DES16C2nm
+      1 Soleil
+      4 DES16C2nm
+      1 Southampton
+      1 PyeongChang
+      1 Russie
+      2 Italie
+      1 Somalie
+      2 Mogadiscio
+      1 Villa Somalia
+      1 Doorbin
+      2 Papouasie-Nouvelle-Guinée
+      1 Porgera
+      1 Enga
+      1 Pyeongchang
+      1 stade olympique de Pyeongchang
+      1 Norvège
+      1 France
+      1 Chine
+      1 Allemagne
+      1 Russie
+      1 Newton
+      1 Connecticut
+      1 Billings
+      1 Montana
+      1 France
+      1 la Réunion
+      1 île de la Réunion
+      1 route du littoral
+      1 route du cirque Cilaos
+      1 Salazie
+      1 radier du ouaki
+      1 Pologne
+      1 Burkina-Faso
+      1 Ouagadougou
+      1 France
+      1 Ouagadougou
+      1 Burkina-Faso
+      1 France
+      2 Terre
+      1 Europe
+      1 Asie
+      1 Afrique saharienne
+      1 Amérique du Sud
+      1 Italie
+      2 Italia
+      1 France
+      2 Espagne
+      1 Madrid
+      1 Barcelone
+      1 Annecy
+      1 Bucharest
+      1 Shanghai
+      2 Europe
+      1 l'Europe
+      1 Balkans
+      1 Serbie
+      1 Macédoine
+      1 Monténégro
+      1 Kosovo
+      1 Serbie
+      1 Balkans
+      1 Kosovo
+      1 Serbie
+      1 France
+      1 Allemagne
+      1 Kosovo
+      1 Soleil
+      1 Terre
+      2 Soleil
+      1 Suisse
+      2 Rhône
+      1 Canton du Valais
+      1 Colombie
+      1 Pyeongchang
+      1 Allemagne
+      5 Mars
+      1 Orcadie Lake
+      1 Terre
+      1 Mars
+      1 Russie
+      1 États-Unis
+      1 Californie
+      1 Suisse
+      2 Bâle
+      2 Suisse
+      1 Pyeongchang
+      1 Corée du Sud
+      1 Russie
+      1 Sibérie
+      1 Khabarovsk
+      1 Montréal
+      1 Russie
+      1 États-Unis
+      1 Royaume-Uni
+      1 Cambridge
+      1 Grande-Bretagne
+      2 Turquie
+      1 Saturne
+      1 Terre
+      1 constellation de la Vierge
+      1 WASP-39b
+      1 Saturne
+      1 Terre
+      1 Soleil
+      1 Baltimore
+      1 Maryland
+      1 Exeter
+      1 Devon
+      1 Royaume-Uni
+      1 WASP-39b
+      1 Saturne
+      1 WASP-39b
+      1 GJ 1132 b
+      1 Terre
+      3 WASP-39b
+      1 Argentine
+      2 Japon
+      1 Suisse
+      1 Pyeongchang
+      1 Corée du Sud
+      1 Chine
+      2 république populaire de Chine
+      1 Chine
+      1 Irlande
+      1 Twickenham
+      1 l'Angleterre
+      1 France
+      2 Lille
+      1 France
+      1 Népal
+      2 France
+      1 Tarnac
+      1 Paris
+      1 Tarnac
+      1 Paris
+      1 Dhuisy
+      1 Europe
+      1 Bruxelles
+      1 Bahamas
+      1 Îles Vierges
+      1 États-Unis
+      1 Saint-Christophe-et-Niévès
+      1 Bahreïn
+      1 Îles Marshall
+      1 Sainte-Lucie
+      1 Pyeongchang
+      1 Corée du Sud
+      1 Suisse
+      1 Nendaz
+      1 Royaume-Uni
+      1 Cambridge
+      3 France
+      2 Chine
+      3 États-Unis
+      2 France
+      1 Italie
+      1 Royaume-Uni
+      1 Suisse
+      1 Italie
+      2 Grèce
+      1 île d' Agathonisi
+      2 Indaba
+      2 Gammarth
+      1 Tunis
+      1 Tunisie
+      1 Algérie
+      1 Égypte
+      1 Cameroun
+      1 Nigéria
+      1 Afrique
+      2 Géorgie
+      1 France
+      1 Nanterre
+      1 Libye
+      1 États Unis
+      2 Cambridge
+      1 Russie
+      1 France
+      2 Trèbes
+      1 Aude
+      1 France
+      1 Carcassonne
+      1 Toulouse
+      1 Carcassonne
+      1 Bruxelles
+      1 Trèbes
+      1 Russie
+      1 Moscou
+      1 Russie
+      1 Salisbury
+      1 Russie
+      1 Royaume-Uni
+      1 Puigdemont
+      1 Allemagne
+      1 Danemark
+      1 Allemagne
+      1 Schleswig-Holstein
+      1 Puigdemont
+      1 Catalogne
+      1 Belgique
+      1 Puigdemont
+      1 Finlande
+      1 Danemark
+      1 Suisse
+      1 Pays-Bas
+      1 Amsterdam
+      1 Amsterdam-Schiphol
+      1 Europe
+      1 Amsterdam
+      2 France
+      1 autostop-citoyen.fr
+      1 France
+      3 Paris
+      1 Pékin
+      1 Shanghai
+      1 Paris
+      1 Pékin
+      1 Paris
+      1 Allemagne
+      1 Bavière
+      1 Weibersbrunn
+      1 Allemagne
+      1 Autriche
+      1 Bessenbach
+      1 Waldaschaff
+      1 Weibersbrunn
+      1 Würzburg
+      1 Nuremberg
+      1 Louvain
+      1 États-Unis
+      1 frontière mexicaine
+      1 États-Unis
+      1 frontière mexicaine
+      1 Pacifique
+      1 Océan Pacifique
+      1 Pékin
+      1 Chine
+      1 États-Unis
+      1 Canada
+      1 Saskatchewan
+      1 Canada
+      1 Tisdale
+      1 Humboldt
+      1 Nipawin
+      1 Canada
+      1 Indonésie
+      1 Jakarta
+      1 Java occidental
+      1 Kalimantan du Sud
+      1 Indonésie
+      1 Mali
+      2 Tombouctou
+      1 France
+      1 Barkhane
+      1 Mali
+      1 Los Angeles
+      1 Vienne
+      1 Canada
+      1 Cuba
+      1 La Havane
+      1 Canada
+      1 États-Unis
+      1 Cuba
+      1 La Havane
+      1 Cuba
+      1 États-Unis
+      1 île cubaine
+      1 Cuba
+      2 États-Unis
+      1 Chine
+      1 Xian
+      2 Chine
+      4 Corée du Nord
+      1 Afghanistan
+      1 Kaboul
+      1 Afghanistan
+      2 France
+      1 Grenoble
+      1 France
+      1 Israël
+      1 Lisbonne
+      1 Portugal
+      1 Israël
+      1 Chypre
+      1 Autriche
+      1 Allemagne
+      1 Espagne
+      1 Italie
+      1 France
+      1 Royaume-Uni
+      1 Portugal
+      1 Allemagne
+      1 Espagne
+      1 Italie
+      1 France
+      1 Royaume-Uni
+      1 Portugal
+      1 Azerbaïdjan
+      1 Islande
+      1 Belgique
+      1 Biélorussie
+      1 Macédoine
+      1 Croatie
+      1 Grèce
+      1 Arménie
+      1 Suisse
+      1 Roumanie
+      1 Saint-Marin
+      1 Russie
+      1 Géorgie
+      1 Pologne
+      1 Malte
+      1 Lettonie
+      1 Monténégro
+      1 Swaziland
+      1 eSwatini
+      1 Swaziland
+      2 eSwatini
+      1 Royaume-Uni
+      1 eSwatini
+      1 Swaziland
+      1 Suisse
+      1 Switzerland
+      1 Suisse
+      1 Swaziland
+      1 Zimbabwe
+      1 Malawi
+      1 Botswana
+      1 Rhodésie
+      1 Nyassaland
+      1 Béchouanaland
+      1 Etats-Unis
+      1 Corée du Nord
+      2 États-Unis
+      1 Corée du Nord
+      2 Singapour
+      1 États-Unis
+      1 Pyongyang
+      2 États-Unis
+      1 Lune
+      1 Fort Wayne
+      1 Indiana
+      1 Lune
+      1 océan des Tempêtes
+      1 Soleil
+      1 Skylab
+      1 Lune
+      2 Terre
+      3 Lune
+      1 Guatemala
+      1 Volcán de Fuego
+      1 Guatemala
+      1 Belgique
+      1 Japon
+      1 Osaka
+      1 Japon
+      1 Osaka
+      1 Hyogo
+      1 Takatsuki
+      3 Colombie
+      1 États-Unis
+      1 Bogota
+      1 Colombie
+      1 Hongrie
+      1 Europe
+      1 Hongrie
+      1 Berlin
+      2 Hongrie
+      1 Éthiopie
+      2 Addis-Abeba
+      2 Caraïbes
+      1 Afrique subsaharienne
+      1 Caraïbes
+      1 Guyane
+      1 Suriname
+      1 Guyane
+      1 Suriname
+      1 Antilles néerlandaises
+      1 Amsterdam
+      1 Caraïbes
+      1 Bahamas
+      1 Barbade
+      1 Guyane
+      1 Jamaïque
+      1 Suriname
+      1 Trinidad-et-Tobago
+      1 Caraïbes
+      1 États-Unis
+      1 Algérie
+      1 Inde
+      1 Irak
+      2 Birmanie
+      1 Myanmar
+      1 La Haye
+      1 Pays-Bas
+      2 Myanmar
+      1 Birmanie
+      1 Bangladesh
+      1 Myanmar
+      1 Bangladesh
+      2 Myanmar
+      3 France
+      1 Irlande
+      3 Dublin
+      1 Irlande
+      1 Irlande du Nord
+      2 Nord
+      2 Nantes
+      1 Saint-Herblain
+      1 Orvault
+      1 Rezé
+      1 Breil
+      1 Bellevue
+      1 Malakoff
+      1 Bellevue
+      1 Nantes
+      1 Almaty
+      2 Kazakhstan
+      2 Jérusalem
+      2 France
+      1 Jérusalem
+      1 Sainte-Anne
+      1 Jérusalem
+      1 Sainte-Anne
+      1 Jérusalem
+      1 Croatie
+      2 Japon
+      1 Tokyo
+      1 Gifu
+      1 Ibigawa
+      2 Japon
+      1 France
+      1 Elysée
+      2 Élysée
+      1 Paris
+      1 Élysée
+      1 France
+      1 Cuba
+      1 Toronto
+      1 Greektown
+      1 Toronto
+      1 Danforth
+      1 Pakistan
+      2 France
+      2 Fleury-Mérogis
+      2 France
+      1 Fleury-Mérogis
+      1 France
+      1 Evry
+      1 Cantal
+      1 Auvergne
+      1 Angoulême
+      1 Haïti
+      2 Angoulême
+      1 Québec
+      1 Maroc
+      1 Qatar
+      1 France
+      1 Belgique
+      1 Suisse
+      1 Allemagne
+      1 France
+      1 Hexagone
+      1 Tunisie
+      1 Sénégal
+      1 Québec
+      1 Burkina-Faso
+      1 Belgique
+      1 Liban
+      1 Côte-d’Ivoire
+      1 Angoulême
+      1 Burkina-Faso
+      1 Liban
+      1 Belgique
+      1 Québec
+      1 Tel Aviv
+      1 Québec
+      1 Belgique
+      1 Haïti
+      1 Angoulême
+      1 Cannes
+      1 France
+      2 Kaunas
+      1 Lituanie
+      1 Autriche
+      1 Russie
+      1 États-Unis
+      1 Russie
+      1 France
+      1 Bassin de la Villette
+      1 19e arrondissement de Paris
+      1 Paris
+      1 Quai de Seine
+      1 Seine
+      1 Bergame
+      1 Italie
+      3 U.S.
+      1 Salt Lake City
+      1 États-Unis
+      2 Richmond
+      1 Canada
+      1 Lituanie
+      1 Bruxelles
+      1 Quartier Nord de Bruxelles
+      2 Bruxelles
+      1 Afghanistan
+      1 Momand Dara
+      1 Nangarhar
+      1 Canada
+      1 Oakville
+      1 Ontario
+      1 Canada
+      1 Bratislava
+      1 Slovaquie
+      1 République tchèque
+      2 Ostrava
+      1 République tchèque
+      1 Lituanie
+      1 Oberstdorf
+      1 Allemagne
+      1 Ljubljana
+      1 Slovénie
+      1 République tchèque
+      1 Espoo
+      1 Finlande
+      2 Aigues-Mortes
+      1 Gard
+      1 France
+      1 Cannes
+      2 Aigues-Mortes
+      1 Arménie
+      1 Vancouver
+      1 Canada
+      1 Erevan
+      1 Arménie
+      1 Slovénie
+      2 Aude
+      1 Villalier
+      1 Trèbes
+      1 Villegailhenc
+      1 Villalier
+      1 Villardonnel
+      1 Carcassonne
+      1 Saint-Couat-d’Aude
+      1 France
+      1 Aude
+      1 Minsk
+      1 Biélorussie
+      1 Lettonie
+      1 Azerbaïdjan
+      1 Autriche
+      1 Russie
+      1 Minsk
+      1 Biélorussie
+      1 Géorgie
+      3 Russie
+      4 Québec
+      1 U.S.
+      1 États-Unis
+      1 Japon
+      1 Russie
+      1 États-Unis
+      2 Italie
+      1 Strasbourg
+      1 Japon
+      1 Russie
+      1 France
+      1 États-Unis
+      2 Brésil
+      1 S.Paulo
+      2 Marseille
+      1 Noailles
+      1 France
+      1 63
+      1 65 rue d'Aubagne
+      1 Aubagne
+      1 Riga
+      1 Lettonie
+      1 Azerbaïdjan
+      1 Hongrie
+      1 France
+      1 Russie
+      2 Japon
+      1 Russie
+      2 États-Unis
+      3 Californie
+      1 Los Angeles
+      1 Paradise
+      1 Californie
+      2 France
+      1 Hauts-de-France
+      1 Pont-de-Beauvoisin
+      1 Savoie
+      1 France
+      1 Seine-et-Marne
+      1 Russie
+      1 Japon
+      3 Russie
+      2 France
+      1 Vern-sur-Seiche
+      1 Rennes
+      1 Pallice
+      1 La Rochelle
+      1 Fos-sur-Mer
+      1 Lavéra
+      1 Martigues
+      1 Lespinasse
+      1 Toulouse
+      1 Portes-lès-Valence
+      1 Frontignan
+      1 Saint-Dizier
+      1 Tokyo
+      1 Yokohama
+      1 Paris
+      1 France
+      1 Russie
+      1 États-Unis
+      1 Japon
+      3 France
+      1 Vancouver
+      1 Canada
+      1 Japon
+      1 Canada
+      1 Russie
+      1 Tallinn
+      1 Estonie
+      1 palais des sports d’hiver de Sofia
+      1 Sofia
+      1 Bulgarie
+      1 Italie
+      1 Bulgarie
+      1 Paris
+      1 Arles
+      1 Paris
+      1 Champs-de-Mars
+      2 Champs-Élysées
+      2 Paris
+      1 avenue des Champs-Élysées
+      1 boulevard Haussmann
+      1 Puy-en-Velay
+      4 Paris
+      1 avenue des Champs-Élysées
+      1 Étoile
+      1 Concorde
+      1 rue Royale
+      1 place de la Madeleine
+      1 Concorde
+      1 pont de la Concorde
+      1 Concorde
+      1 place de la Madeleine
+      1 Concorde
+      1 France
+      1 Arc de Triomphe
+      1 rue de Presbourg
+      1 Presbourg
+      1 Concorde
+      1 Arc de Triomphe
+      1 avenue de Friedland
+      1 Friedland
+      1 rue du faubourg-saint-honoré
+      1 Élysée
+      1 place Charles-de-Gaulle
+      2 avenue Hoche
+      1 Champs-Élysées
+      1 Arc de Triomphe
+      1 Avenue de la Grande Armée
+      1 VIIIe arrondissement
+      1 Arc de Triomphe
+      1 Concorde
+      1 Arc de Triomphe
+      2 Champs-Élysées
+      1 Arc de Triomphe
+      1 Trocadero
+      1 place Rochambeau
+      1 rue Pierre de Serbie
+      1 Serbie
+      1 avenue de la Grande Armée
+      1 boulevard Hausmann
+      1 rue Kléber
+      1 Brognard
+      1 Arc de Triomphe
+      1 rue Cambon
+      1 rue de Rivoli
+      1 jardin des Tuileries
+      1 VIIIe arrondissement
+      1 Étoile
+      1 rue de la Boetie
+      1 Saint-Lazare
+      1 Saint-Augustin
+      1 Étoile
+      1 Arc de Triomphe
+      1 rue Kléber
+      1 A7
+      1 A20
+      1 A72
+      1 A89
+      1 A40
+      1 A41
+      1 A43
+      1 A48
+      1 A61
+      1 A64
+      1 A6
+      1 A8
+      1 A9
+      1 A10
+      1 A50
+      1 A52
+      1 A63
+      1 A81
+      1 A13
+      1 Tours
+      1 Indre-et-Loire
+      1 Bordeaux
+      1 Charleville-Mézières
+      1 Toulouse
+      1 Puy-en-Velay
+      1 Haute-Loire
+      1 Nantes Atlantique
+      1 Nice
+      1 Strasbourg
+      1 Marseille
+      1 Canebière
+      1 gare Saint-Charles
+      1 Fort-Nieulay
+      1 Calais
+      1 France
+      1 Champs-Élysées
+      2 Paris
+      1 Champs-Élysées
+      1 Arc de Triomphe
+      1 Champs-Élysées
+      1 France
+      1 Meaux
+      1 Fontainebleau
+      1 Nemours
+      1 Fleury-en-Bière
+      2 Paris
+      1 Argentine
+      1 France
+      1 palais de l'Elysée
+      1 Elysée
+      1 Champs-Elysées
+      1 Bastille
+      1 Bruxelles
+      1 La Haye
+      1 Nimègue
+      1 Maastricht
+      1 Grande-Bretagne
+      1 Grande Bretagne
+      1 Sheffield
+      1 Royaume-Uni
+      3 Istanbul
+      1 Turquie
+      1 Géorgie
+      1 Philippines
+      1 Russie
+      1 N113
+      1 Raphèle-lès-Arles
+      1 RN 113
+      1 Saint-Martin-de-Crau
+      1 Arles
+      1 Fort-Nieulay
+      1 Calais
+      1 Narbonne
+      1 A9
+      1 Perpignan-Montpellier
+      1 rue de Lille
+      1 Lille
+      1 Paris
+      1 Orsay
+      1 A9
+      1 Agde
+      1 Sète
+      1 Béziers
+      1 Orange
+      1 A20
+      1 Aussonne
+      1 A62
+      1 Valence d’Agen
+      1 Castelsarrasin
+      1 A61
+      1 Carcassonne ouest
+      1 A7
+      1 Montélimar
+      1 Bollène
+      1 Orange centre
+      1 Orange sud
+      1 A9
+      1 Narbonne-sud
+      1 A10
+      1 Châtellera
+      1 A11
+      1 Mans
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A52
+      1 Pont de l’Etoile
+      1 A8
+      1 La Barque
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A50
+      1 A52
+      1 A520
+      1 A61
+      1 A62
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A89
+      1 arc de Triomphe
+      1 Paris
+      1 avenue Kléber
+      1 Paris
+      1 Élysée
+      1 Finistère
+      1 Brest
+      1 Rouen
+      2 France
+      1 Occitanie
+      1 Bretagne
+      1 Île-de-France
+      1 Auvergne-Rhône-Alpes
+      1 Hauts-de-France
+      1 Pays de la Loire
+      1 Provence-Alpes-Côte d'Azur
+      1 Corse
+      1 Nouvelle-Aquitaine
+      1 Budapest
+      1 Hongrie
+      1 Russie
+      2 Hongrie
+      1 Morbihan
+      1 Paris
+      1 Aubervilliers
+      1 99 rue Lécuyer
+      1 Arc de triomphe
+      1 Paris
+      1 France
+      1 Toulouse
+      1 Bordeaux
+      1 Haute-Garonne
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A50
+      1 A51
+      1 A52
+      1 A54
+      1 A61
+      1 A62
+      1 A63
+      1 Castets
+      1 A64
+      1 Peyehorade
+      1 A71
+      1 A83
+      1 A87
+      1 A837
+      1 Catalogne
+      1 Hexagone
+      1 Brest
+      1 Lorient
+      1 Le Mans
+      1 Fos-sur-Mer
+      1 La Rochelle
+      1 Donges
+      1 Strasbourg
+      1 Finistère
+      1 Côtes-d'Armor
+      1 Morbihan
+      1 Finistère
+      1 Saint-Paul-lès-Dax
+      1 Bégaar
+      1 Mont-de-Marsan
+      1 Limoges
+      1 Bergerac
+      1 Rennes
+      1 Torcé
+      1 Strasbourg
+      1 calvados
+      1 Bretteville-sur-Odon
+      1 Blainville-sur-Orne
+      1 Mondeville
+      1 Ifs
+      1 Lisieux
+      1 Seine-Maritime
+      1 Saint-Etienne-du-Rouvray
+      1 Grand Quevilly
+      1 Dieppe
+      1 Neuville-les-Dieppe
+      1 Montivilliers
+      1 Gonfreville-L'Rocher
+      1 Octeville-sur-Mer
+      1 Châteauneuf-de-Randon
+      1 Lozère
+      1 Paris
+      1 Tarbes
+      1 Paris
+      1 Chalon-sur-Saône
+      1 Élysée
+      1 Champs-Élysées
+      1 palais des glaces de Canillo
+      1 Canillo
+      1 Andorre
+      2 Espagne
+      1 Italie
+      1 Saint-Andiol
+      1 Bouches-du-Rhône
+      1 Val-d'Oise
+      1 Morbihan
+      1 Brest
+      1 Lorient
+      1 campus Censier
+      1 Paris
+      1 Élysée
+      1 Paris
+      1 Arc de Triomphe
+      1 Nantes
+      1 Melun
+      1 Paris
+      1 Brest
+      1 Paris
+      1 Tolbiac
+      1 France
+      1 Paris
+      1 Loriol
+      1 Pouzin
+      1 Ardèche
+      1 Pouzin
+      1 Lorient
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A20
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A57
+      1 A61
+      1 A62
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A85
+      1 A87
+      1 A89
+      1 A520
+      1 A837
+      1 Saint-Malo
+      1 Portsmouth
+      1 Grande-Bretagne
+      1 Ouistreham
+      1 Paris
+      1 France
+      1 Gaillon
+      1 Eure
+      1 Montmagny
+      1 Val-d’Oise
+      1 Montceaux-les-mines
+      1 Saône-Et-Loire
+      1 Charleville-Mézières
+      1 Riom
+      1 Puy-de-Dôme
+      1 Lorient
+      1 Brest
+      1 Narbonne
+      1 Narbonne-Sud
+      1 Tours
+      1 Saint-Avold
+      1 Moselle
+      1 Toulouse
+      1 Marseille
+      1 Créteil
+      1 Grenoble
+      1 Saint-Jean-de-Braye
+      1 Loiret
+      1 Gonesse
+      1 Val d'Oise
+      1 Saint-Exupéry
+      1 Mantes-la-Jolie
+      1 Paris
+      1 France
+      1 Valence-Nord
+      2 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A20
+      1 A50
+      1 Sanary-sur-Mer
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 A57
+      1 A61
+      1 A62
+      1 A63
+      1 Biriatou
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 Lezoux
+      1 Saint-Laurent-sur-Manoire
+      1 Notre-Dame-de-Sanilhac
+      1 A520
+      1 A837
+      4 Élysée
+      1 Saint-Malo
+      1 Lannion
+      1 Nantes
+      1 Armor
+      1 Saint-Nazaire
+      1 Mondeville
+      1 Dions
+      1 Les Angles
+      1 Pont-Saint-Esprit
+      1 Le Vigan
+      1 Saint-Martin-de-Valgalgues
+      1 Quissac
+      1 Nîmes
+      1 Alès
+      1 Aimargues
+      1 Saint-Césaire
+      1 Remoulins
+      1 Beaucaire
+      1 Rhône
+      1 Coulounieix-Chamiers
+      1 Saint-Laurent-sur-Manoire
+      1 Sarlat
+      1 Réalmont
+      1 Albi
+      1 Marignane
+      1 Marseille
+      1 Port-la-Nouvelle
+      1 Aude
+      1 Dijon
+      1 Midi
+      1 Mans
+      1 Sarthe
+      1 Grand-Puits
+      1 Seine-et-Marne
+      1 Donges
+      1 La Mède
+      1 Bouches-du-Rhône
+      1 Beauvais
+      1 Oise
+      1 Nice
+      1 Côtes d'Armores
+      1 Limoges
+      1 Sorbonne
+      1 Paris
+      1 Ardèche
+      1 Élysée
+      1 Montchalin
+      1 Paris
+      1 Saint-Malo
+      3 France
+      1 Nantes
+      1 Paris
+      1 Tolbiac
+      1 Cuvier
+      1 Élysée
+      1 Paris
+      1 Elabe
+      2 Paris
+      1 Champs-Élysées
+      1 Satory
+      1 Paris
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A57
+      1 A61
+      1 A62
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 A520
+      1 A837
+      1 Bordeaux
+      1 Virsac
+      1 A10
+      1 Gironde
+      1 France
+      1 Paris
+      1 Lausanne
+      1 Auvergne-Rhône-Alpes
+      1 Mans
+      1 Sarthe
+      1 Port-la-Nouvelle
+      1 Aude
+      1 Paris
+      1 Hauts-de-Seine
+      1 Yvelines
+      1 Rhône
+      1 Haut-Rhin
+      1 Arc de Triomphe
+      1 Lucciana
+      1 Haute-Corse
+      1 France
+      1 périph’parisien
+      1 France
+      1 Paris
+      1 Arc de Triomphe
+      1 Pas-de-Calais
+      1 Montauban
+      1 Tarn-et-Garonne
+      1 Aussonne
+      1 Yvelines
+      2 Pas-de-Calais
+      1 Nord
+      1 Aisne
+      1 Gironde
+      1 Creuse
+      1 Vienne
+      1 Charente-Maritime
+      1 Var
+      1 Seine-Maritime
+      1 Loiret
+      1 Vendée
+      2 Paris
+      2 France
+      1 Provence-Alpes-Côte-d’Azur
+      1 Marseille
+      1 Limoges
+      1 Élysée
+      2 Paris
+      1 Lyon
+      1 Auvergne-Rhône-Alpes
+      1 Élysée
+      1 Nantes
+      1 Saint-Nazaire
+      1 Loire-Atlantique
+      1 périphérique parisien
+      1 Élysée
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A57
+      1 A61
+      1 A62
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 A520
+      1 A837
+      2 Paris
+      1 Vernon
+      1 Eure
+      1 porte Maillot
+      1 périphérique
+      1 Monistrol-sur-Loir
+      1 Haute-Loire
+      1 Nogent-sur-Marne
+      1 Val-de-Marne
+      1 Eragny
+      1 Val-d’Oise
+      1 Mans
+      1 Sarthe
+      1 Port-la-Nouvelle
+      1 Aude
+      1 Bouches-du-Rhône
+      1 Paris
+      1 France
+      3 Paris
+      2 France
+      4 Paris
+      1 Ile-de-France
+      2 Paris
+      1 Bordeaux
+      1 Vieux-Port de Marseille
+      1 Marseille
+      1 France
+      1 Paris
+      1 8e arrondissement
+      1 16e
+      1 7e
+      1 1er arrondissement
+      2 place de la Concorde
+      1 Étoile
+      1 rue de Rivoli
+      1 Bastille
+      1 Champs-Élysées
+      1 France
+      1 Paris
+      1 Seine-et-Marne
+      1 Yvelines
+      1 Paris
+      1 Buchelay
+      1 Yvelines
+      1 Tarnac
+      1 Paris
+      1 avenue de la République
+      1 Paris
+      1 Versailles
+      1 Élysée
+      1 Versailles
+      1 Paris
+      1 gare de l’Est
+      1 gare du Nord
+      1 Montparnasse
+      1 Saint-Lazare
+      1 Étoile
+      1 gare du Nord
+      1 Étoile
+      1 Champs-Élysées
+      1 place de la Concorde
+      1 Grand Palais
+      1 place de la Bastille
+      1 France
+      1 place de la République
+      1 Champs-Élysées
+      1 Grand Palais
+      1 Champs-Élysées
+      1 Bastille
+      1 Champs-Élysées
+      1 Paris
+      1 France
+      1 Ile-de-France
+      1 Paris
+      2 Champs-Élysées
+      1 avenue de Friedland
+      1 avenue de la Grande armée
+      2 porte Maillot
+      1 Champs-Élysées
+      1 rue Houssaye
+      1 porte Maillot
+      1 gare Saint-Lazare
+      1 Trinité-d’Estienne-d’Orves
+      1 Concorde
+      1 France
+      1 Besancenot
+      1 porte Maillot
+      1 Val d'Oise
+      1 porte Maillot
+      1 porte Dauphine
+      1 France
+      1 Saint-Lazare
+      1 Champs-Élysées
+      1 avenue de la Grande armée
+      1 Étoile
+      1 arc de triomphe
+      1 avenue de la Grande armée
+      1 Champs-Élysées
+      1 rue de Caumartin
+      1 IXe arr
+      1 Saint-Lazare
+      1 Concorde
+      1 Champs-Élysées
+      1 rue de Caumartin
+      1 Saint-Lazare
+      1 rue Auber
+      1 rue des Mathurins
+      1 boulevard Sébastopol
+      1 Madeleine
+      1 France
+      1 Paris
+      1 avenue des Champs-Élysées
+      1 Richelieu Drouot
+      1 2e
+      1 9e arrondissements
+      1 Étoile
+      1 Champs-Élysées
+      1 avenue des Champs-Élysées
+      1 Champs-Élysées
+      1 rue de Réaumur
+      1 Champs-Élysées
+      1 Richelieu Drouot
+      1 boulevard des Italiens
+      1 place de la République
+      1 Saint-Lazare
+      1 boulevard des Mathurins
+      1 des Italiens
+      1 Grands-Boulevards
+      1 rue Taitbout
+      1 avenue des Ternes
+      1 Washington
+      1 France
+      2 Paris
+      1 Saint-Lazare
+      1 Strasbourg
+      1 Saint-Denis
+      1 Châtelet les Halles
+      1 rue de Rivoli
+      1 Rivoli
+      1 avenue Marceau
+      1 Saint-Lazare
+      2 avenue de Friedland
+      1 France
+      1 Tours
+      1 Paris
+      1 place de la Nation
+      1 République
+      1 place de la Bastille
+      1 République
+      1 avenue de Friedland
+      1 avenue Marceau
+      1 Courcelles
+      1 Champs-Élysées
+      1 France
+      1 place Victor-Hugo
+      1 Trocadéro
+      1 Champs-Élysées
+      1 avenue de Friedland
+      1 rue Lammenais
+      1 Bretagne
+      1 Grands Boulevards
+      1 place de la République
+      1 Champs-Élysées
+      1 rue de Presbourg
+      1 Presbourg
+      1 Boulevard Haussmann
+      1 Miromesnil
+      1 Courcelles
+      1 Champs-Élysées
+      1 Étoile
+      1 Mercedes
+      2 avenue Marceau
+      1 Champs-Élysées
+      1 France
+      1 Arc de triomphe
+      1 Concorde
+      1 avenue de Friedland
+      1 Washington
+      1 place de la République
+      1 Grands Boulevards
+      1 Uruguay
+      1 Courcelles
+      1 rue de la Pépinière
+      1 Champs-Élysées
+      1 rue Magellan
+      1 gare Saint-Lazare
+      1 rue Pasquier
+      1 rue de Provence
+      1 avenue Marceau
+      1 place de la République
+      1 Paris
+      1 Lyon
+      1 rue de La Boétie
+      1 Saint-Philippe
+      1 avenue Hoche
+      1 rue de Tilsitt
+      1 gare Saint-Lazare
+      1 France
+      1 Paris
+      1 avenue d’Iena
+      1 gare Saint-Lazare
+      1 avenue Kleber
+      1 Saint-Lazare
+      1 Madeleine
+      1 boulevard Poissonnière
+      1 Saint-Augustin
+      1 France
+      1 Paris
+      2 Champs-Élysées
+      1 boulevard Malesherbes
+      1 avenue Hoche
+      1 Hôtel de ville
+      1 Paris
+      1 rue de Rome
+      1 Rome
+      1 Paris
+      1 Champs-Élysées
+      1 Concorde
+      2 Étoile
+      1 place de la République
+      1 Paris
+      1 gare Saint-Lazare
+      1 place de la République
+      1 rue de la Pépinière
+      1 Champs-Élysées
+      1 Étoile
+      1 Saint-Lazare
+      1 place de la République
+      1 Arc de triomphe
+      1 avenue des Champs-Élysées
+      1 place de la République
+      1 France
+      1 Paris
+      1 Prony
+      1 Orange des Champs-Élysées
+      4 place de la République
+      1 République
+      1 place de la République
+      1 avenue de la République
+      1 île d'Ouessant
+      1 Villefranche-sur-Saône
+      1 Mâcon
+      1 A8
+      1 Bandol
+      1 Étoile
+      1 Valence d'Agen
+      1 Valence
+      1 Drôme
+      1 Valence
+      2 Nice
+      1 A8
+      1 Italie
+      1 Vintimille
+      2 Grenoble
+      1 Tours
+      1 place de la Liberté
+      1 France
+      1 Bordeaux
+      1 Narbonne
+      1 Carcassonne
+      1 Fontenay-sous-Bois
+      1 Val-de-Marne
+      1 Val-de-Fontenay
+      1 Lyon
+      1 Toulouse
+      1 Saint-Étienne
+      1 Nantes
+      1 Bayonne
+      1 Nive
+      1 Marseille
+      1 Bouches-du-Rhône
+      1 Marseille
+      1 Rouen
+      1 Tourville-la-Rivière
+      1 Seine-Maritime
+      1 Lille
+      1 Vezac
+      1 Dordogne
+      1 Mans
+      1 Sarthe
+      1 Belgique
+      1 Bruxelles
+      1 États-Unis d'Amérique
+      3 Paris
+      1 France
+      1 Turquie
+      1 Zagreb
+      1 Croatie
+      2 États-Unis
+      1 Russie
+      1 Canada
+      1 A9
+      1 Bollène
+      1 Béziers
+      1 Bessan
+      1 Guilherand-Granges
+      1 Ardèche
+      1 Calvados
+      1 Paris
+      1 Lot
+      1 Drauzou
+      1 La Capelette
+      1 Figeac
+      1 Alès
+      1 RN 106
+      1 route de Bagnols
+      1 Uzès
+      1 Nîmes
+      1 Dions
+      1 Saint-Cézaire
+      1 Aimargues
+      1 Portes-lès-Valence
+      1 A6
+      1 Villefranche-sur-Saône
+      1 Mâcon
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A57
+      1 A61
+      1 A62
+      1 Valence d'Agen
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 A520
+      1 A837
+      1 Mans
+      1 Sarthe
+      1 Canada
+      1 Russie
+      1 Canada
+      2 Russie
+      1 Canada
+      1 Japon
+      2 États-Unis
+      1 Morières-lès-Avignon
+      1 Vaucluse
+      1 Tourlaville
+      1 Cherbourg
+      1 Caen
+      1 Gard
+      1 Aimargues
+      1 Pont du Rhône
+      1 Rhône
+      1 Tarascon
+      1 Beaucaire
+      1 Nîmes
+      1 Dions
+      1 Saint-Césaire
+      1 Saint-Hippolyte-du-Fort
+      1 Saint-Christol-lez-Alès
+      1 Alès
+      1 Bellegarde
+      1 Saint-Martin-de-Valgualgues
+      1 Guéret
+      1 Creuse
+      1 A6
+      1 Villefranche-sur-Saône
+      1 Mâcon
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A57
+      1 A61
+      1 A62
+      1 Valence d'Agen
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 A520
+      1 A837
+      1 Saint-Clément
+      1 Yonne
+      1 Mans
+      1 Sarthe
+      1 Saint-Pierre-des-Corps
+      1 Indre-et-Loire
+      2 France
+      1 Alsace
+      1 Roppenheim
+      1 Bemolsheim
+      1 Thal-Druliguen
+      1 Rothau
+      1 Gambsheim
+      1 Ernstein
+      1 Dorlisheim
+      1 Wasselonne
+      1 Loire-Atlantique
+      1 Saint-Nazaire
+      1 Montoir-de-Bretagne
+      1 Gard
+      1 Dions
+      1 Alès
+      1 Bellegarde
+      1 Bernis
+      1 Nîmes
+      1 Saint-Césaire
+      1 Pont-Saint-Esprit
+      1 Saint-Hilaire-de-Brethmas
+      1 Saint-Martin-de-Valgalgues
+      1 Vestric
+      1 Candiac
+      1 Bretagne
+      1 Brest
+      1 Pontivy
+      1 Ploubezre
+      1 Mellac
+      1 Normandie
+      1 Petit-Quevilly
+      1 Cherbourg-en-Cotentin
+      1 Caen
+      1 Bouches-du-Rhône
+      1 Châteauneuf-le-Rouge
+      1 Lorient
+      1 Morbihan
+      1 Lorient
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A55
+      1 Lavera
+      1 A57
+      1 A61
+      1 A62
+      1 Langon
+      1 A63
+      1 Capbreton
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 A520
+      1 A837
+      1 Gallargues
+      1 Aimargues
+      2 Strasbourg
+      1 Presqu'Île de Caen
+      1 Caen
+      1 Blainville-sur-Orne
+      1 Calvados
+      1 Toulouse
+      1 Bretagne
+      1 Quimper
+      1 Dinan
+      1 Ottmarsheim
+      1 Haut-Rhin
+      1 Arc de Triomphe
+      1 Strasbourg
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A55
+      1 Lavera
+      1 A57
+      1 A61
+      1 A62
+      1 Valence d’Agen
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 Evron
+      1 A87
+      1 A89
+      1 A520
+      1 A837
+      1 Mans
+      1 A7
+      1 Avignon
+      1 Vaucluse
+      1 Saône-et-Loire
+      1 Saint-Remy
+      1 Puy-en-Velay
+      1 Haute-Loire
+      1 Charente-Maritime
+      1 Vesoul
+      1 Haute-Saône
+      1 Provence-Alpes-Côte d'Azur
+      1 Strasbourg
+      1 Versailles
+      1 Yvelines
+      1 Strasbourg
+      1 Besançon
+      1 Doubs
+      1 A1
+      1 A16
+      1 A2
+      1 A13
+      1 A26
+      1 A29
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A344
+      1 A4
+      1 A43
+      1 A41N
+      1 A430
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A55
+      1 A57
+      1 A61
+      1 A62
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 A520
+      1 A709
+      1 A837
+      1 Fos-sur-Mer
+      1 Coignières
+      1 Yvelines
+      1 Feyzin
+      1 Rhône
+      2 Ankara
+      1 turquie
+      1 Konya
+      2 Ankara
+      1 Turquie
+      2 Strasbourg
+      1 Alsace
+      1 Strasbourg
+      1 France
+      1 Neudorf
+      3 France
+      1 Paris
+      1 Rennes
+      1 Puy-en-Velay
+      1 Haute-Loire
+      1 Bercy
+      1 Opéra
+      1 Paris
+      1 Strasbourg
+      1 A1
+      1 A16
+      1 A2
+      1 A13
+      1 A26
+      1 A29
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A344
+      1 A4
+      1 A43
+      1 A41N
+      1 A430
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A55
+      1 A57
+      1 A61
+      1 A62
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 A520
+      1 A709
+      1 A837
+      1 A16
+      1 Orléans
+      1 Paris
+      1 France
+      3 Paris
+      1 France
+      4 Paris
+      1 Toulouse
+      2 France
+      1 Grenelle
+      1 Paris
+      1 Chamant
+      1 Oise
+      1 A1
+      1 gare de Meaux
+      1 Meaux
+      1 Seine-et-Marne
+      1 gare de Saint-Lazare
+      1 Saint-Lazare
+      1 Paris
+      1 Eure
+      1 Seine-et-Marne
+      1 Yvelines
+      1 Savoie
+      1 gare Saint-Lazare
+      1 Rome
+      1 arc de Triomphe
+      1 Champs-Élysées
+      1 Paris
+      1 8e arrondissement
+      1 16e
+      1 7e
+      1 1er arrondissement
+      1 place de la Concorde
+      1 Paris
+      1 Champs-Élysées
+      1 Paris
+      1 Arc de triomphe
+      1 Champs-Élysées
+      1 Île-de-France
+      1 Paris
+      3 Champs-Élysées
+      1 Île-de-France
+      2 Paris
+      1 Marianne
+      2 Champs-Élysées
+      2 Paris
+      1 Champs-Élysées
+      1 place de l’Étoile
+      1 Saint-Lazare
+      1 Montreuil
+      1 Seine-Saint-Denis
+      1 Paris
+      2 Champs-Élysées
+      2 Saint-Lazare
+      1 Champs
+      1 Arc de Triomphe
+      1 Paris
+      1 Champs-Élysées
+      1 avenue du Président-Wilson
+      1 XVIe
+      1 Trocadéro
+      1 avenue du Président-Wilson
+      1 Champs-Élysées
+      1 gare Saint-Lazare
+      1 Iena
+      1 Saint-Lazare
+      1 Champs-Élysées
+      1 avenue Pierre 1er de Serbie
+      1 Serbie
+      1 Île-de-France
+      1 Paris
+      1 Champs-Élysées
+      1 place de République
+      1 Paris
+      1 Saint-Lazare
+      1 Champs-Élysées
+      1 Paris
+      1 rue Scribe
+      1 Île-de-France
+      1 gare Saint-Lazare
+      1 Champs
+      1 place de la République
+      1 France
+      1 Paris
+      1 boulevard Haussmann
+      1 Champs-Élysées
+      1 préfecture de Police de Paris
+      2 Paris
+      1 place de la République
+      1 Champs-Élysées
+      1 Champs
+      1 rue La Boétie
+      1 Bastille
+      2 France
+      1 Paris
+      1 Champs-Élysées
+      1 place de la République
+      1 rue du Temple
+      1 boulevard Saint-Martin
+      1 Champs
+      1 Paris
+      1 Place de la République
+      1 Cameroun
+      1 Champs-Élysées
+      1 avenue George
+      1 Champs-Élysées
+      1 France
+      1 Paris
+      1 place de République
+      1 forum des Halles
+      1 Paris
+      2 Champs-Élysées
+      1 rue Arsène-Houssaye
+      1 place de République
+      3 Paris
+      1 France
+      1 Paris
+      2 Strasbourg
+      1 place de la République
+      2 place Kléber
+      1 Strasbourg
+      1 Cabestany
+      1 Pyrénées-Orientales
+      1 Périgueux
+      1 Nantes
+      1 Annecy
+      1 Bordeaux
+      1 Toulouse
+      1 Marseille
+      1 Saint-Étienne
+      1 Roquebrune-Cap-Martin
+      1 Alpes-Maritimes
+      1 Strasbourg
+      1 Longeville-lès-Saint-Avold
+      1 Moselle
+      1 France
+      1 A6
+      1 A7
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A54
+      1 Nîmes
+      1 Grans
+      1 Eyguières-Miramas
+      1 Saint-Martin de Crau
+      1 A57
+      1 A61
+      1 A62
+      1 Valence d'Agen
+      1 A63
+      1 Bayonne
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 A520
+      1 A837
+      1 A16
+      1 Calais
+      1 Belgique
+      1 Bruxelles
+      1 Pologne
+      1 Hongrie
+      1 République tchèque
+      1 Slovaquie
+      1 Budapest
+      1 Hongrie
+      1 Pologne
+      1 République tchèque
+      1 Pologne
+      2 France
+      1 Vaujany
+      1 Oiry
+      1 Marne
+      1 France
+      1 Châtellerault
+      1 Vienne
+      1 A8
+      1 A9
+      1 A10
+      1 A11
+      1 A20
+      1 A344
+      1 A4
+      1 A43
+      1 A41N
+      1 A430
+      1 A50
+      1 La Ciotat
+      1 Bandol
+      1 A51
+      1 A52
+      1 Pont de l’Étoile
+      1 A55
+      1 A57
+      1 A61
+      1 A62
+      1 A63
+      1 A64
+      1 A71
+      1 A72
+      1 A83
+      1 A81
+      1 A87
+      1 A89
+      1 A520
+      1 A709
+      1 A837
+      1 Paris
+      1 A51
+      1 Manosque
+      1 Alpes-de-Haute-Provence
+      1 Béziers
+      1 La Ciotat
+      1 Perpignan
+      1 Rungis
+      2 Île-de-France
+      2 France
+      1 Tahiti
+      1 France
+      1 Paris
+      1 Rhin
+      1 Rhône
+      1 A27
+      1 A304
+      1 France
+      1 Belgique
+      1 Saint-Béat
+      1 RN125
+      1 Poitiers
+      1 Vienne
+      1 Paris
+      1 Limay
+      1 Yvelines
+      1 Créteil
+      1 Val-de-Marne
+      1 Bandol
+      1 A50
+      1 Marseille
+      1 Toulon
+      1 Pinas
+      1 Hautes-Pyrénées
+      1 France
+      1 Saône-et-Loire
+      1 Mâcon
+      1 Montchanin
+      1 Dracy-Saint-Loup
+      1 Montceau-les-Mines
+      1 Honfleur
+      1 Haute-Normandie
+      1 Saint-Sauveur
+      1 Saint-Etienne-du-Rouvray
+      1 Haute-Normandie
+      1 la Motte
+      1 Côtes-d'Armor
+      1 Lannion
+      1 Quévert
+      1 Guingamp
+      1 Saint-Brieuc
+      1 Quimper
+      1 Finistère
+      1 Gironde
+      1 Calais
+      3 France
+      1 Allemagne
+      1 Paris
+      1 Puyricard
+      1 Bouches-du-Rhône
+      1 la Barque
+      1 A7
+      1 A1
+      1 A4
+      1 A13
+      1 A16
+      1 A26
+      1 A29
+      1 A344
+      1 A7
+      1 A9
+      1 A20
+      1 A61
+      1 A62
+      1 A63
+      1 A66
+      1 A645
+      1 A83
+      1 A87
+      1 A89
+      1 A709
+      1 A11
+      1 A8
+      1 A50
+      1 A51
+      1 A52
+      1 A520
+      1 A27
+      1 Fos-sur-Mer
+      1 Bessan
+      1 Hérault
+      1 A9
+      1 Rungis
+      1 Île de France
+      1 Rousset
+      1 Bouches-du-Rhône
+      1 Belgique
+      1 Couvin
+      1 Belgique
+      1 Gué d'Hossus
+      1 France
+      1 Margencel
+      1 Haute-Savoie
+      3 France
+      1 Alès
+      1 Saint-Dizier
+      1 Haute-Marne
+      1 Narbonne
+      1 Coursan
+      1 Elysée
+      1 Pau
+      1 Pyrénées-Atlantiques
+      1 hippodrome
+      1 Val d'Oise
+      1 Beauvau
+      1 A1
+      1 A4
+      1 A13
+      1 A16
+      1 A26
+      1 A29
+      1 A344
+      1 A7
+      1 A9
+      1 A20
+      1 A61
+      1 A62
+      1 A63
+      1 A66
+      1 A645
+      1 A83
+      1 A87
+      1 A89
+      1 A8
+      1 A50
+      1 A51
+      1 A52
+      1 A520
+      1 A11
+      1 Fos-sur-Mer
+      1 Marseille
+      1 Nice
+      1 Toulon
+      1 Bigorre
+      1 RN 21
+      1 Passage-d’Agen
+      1 Lot-et-Garonne
+      1 Villeneuve-sur-Lot
+      1 Longeville-lès-St-Avold
+      1 Moselle
+      1 Phalsbourg
+      1 Saint-Avold
+      1 Saulce
+      1 Hautes-Alpes
+      1 Gap
+      1 Hautes-Alpes
+      1 Tokoro
+      1 Val d'Oise
+      2 Toulouse
+      1 Paris
+      1 Champs-Élysées
+      1 place Beauvau
+      1 A1
+      1 A4
+      1 A13
+      1 A16
+      1 A26
+      1 A29
+      1 A344
+      1 A7
+      1 A9
+      1 A20
+      1 A62
+      1 A64
+      1 A72
+      1 A8
+      1 A50
+      1 A51
+      1 A1
+      1 A4
+      1 A16
+      1 A26
+      1 A29
+      1 A344
+      1 A11
+      2 Ukraine
+      1 Kiev
+      1 France
+      1 Pfastatt
+      1 Haut-Rhin
+      1 Mans
+      1 Angles
+      1 Gard
+      1 Macdonald
+      1 Louviers
+      1 Haute-Normandie
+      1 Albert
+      1 Somme
+      1 Ville-Close à Concarneau
+      1 Finistère
+      1 Scionzier
+      1 Haute-Savoie
+      1 La Roche-sur-Yon
+      1 Vendée
+      1 Agen
+      1 A62
+      1 Redon
+      1 Ille-et-Vilaine
+      1 Marrakech
+      1 Europe
+      1 Manche
+      1 Normandie
+      1 France
+      1 Yvelines
+      1 parc Bourgines
+      1 Angoulême
+      1 Charente
+      1 Boulou
+      1 A9
+      1 Ariège
+      1 Marrakech
+      1 D900
+      1 Perpignan Sud
+      1 Monistrol-sur-Loire
+      1 Haute-Loire
+      1 Portugal
+      1 Paris
+      1 France
+      3 Paris
+      1 France
+      2 Paris
+      1 France
+      2 Paris
+      1 Toulouse
+      1 Bordeaux
+      1 Bouches
+      1 Rhône
+      1 Algérie
+      1 Paris
+      1 Tuileries
+      1 Argentine
+      1 Champs-Elysées Clemenceau
+      1 Champs-Elysées
+      1 place de la Concorde
+      5 Montmartre
+      1 Pigalle
+      1 Larochefoucault
+      1 Saint-Lazare
+      1 Aube
+      1 Montmartre
+      1 Pigalle
+      1 Clichy
+      1 Madeleine
+      1 Saint-Lazare
+      1 Sèze
+      2 Paris
+      1 Champs-Élysées
+      1 gare Saint-Lazare
+      1 Madeleine
+      1 Louvre
+      1 place de la Concorde
+      1 Paris
+      1 place de la Concorde
+      1 Paris
+      1 France
+      2 Paris
+      2 Rivoli
+      1 Madeleine
+      1 Arcole
+      2 Île de la Cité
+      1 Arcole
+      1 Champs-Élysées
+      1 Paris
+      1 Rivoli
+      1 Paris
+      2 Rivoli
+      1 place de la Bastille
+      1 Paris
+      1 Champs-Elysées
+      1 Paris
+      1 France
+      1 gare Saint-Lazare
+      1 Champs Élysées
+      1 Champs-Élysées
+      1 place de la Concorde
+      1 avenue des Champs-Élysées
+      3 Champs-Élysées
+      1 avenue des Champs-Élysées
+      1 Paris
+      1 France
+      1 Paris
+      8 Champs-Élysées
+      1 Paris
+      1 France
+      1 Paris
+      1 Versailles
+      1 Paris
+      1 Versailles
+      1 Paris
+      1 Yvelines
+      1 Versailles-Chantiers
+      1 Versailles
+      1 Rungis
+      1 Essonne
+      1 Thiais
+      1 Nantes
+      1 Tours
+      1 Saint-Etienne
+      1 Bourg-en-Bresse
+      1 Carcassonne
+      1 Nantes
+      1 Carcassonne
+      1 Arras
+      1 Pas-de-Calais
+      1 Arras
+      1 Auchan
+      1 Touquet
+      1 Pas-de-Calais
+      1 Bordeaux
+      1 Gironde
+      1 Bordeaux
+      1 place de la Bourse
+      1 place de la Victoire
+      1 Place de la mairie
+      1 Caen
+      1 Calvados
+      1 Caen
+      1 Rennes
+      1 Bretagne
+      1 Cleunay
+      1 France
+      1 Nancy
+      1 Toulouse
+      1 Haute-Garonne
+      1 Nantes
+      1 Loire-Atlantique
+      1 Nîmes
+      1 Gard
+      1 Lyon
+      1 Rhône
+      1 Confluence de Lyon
+      1 Lyon
+      1 Part-Dieu
+      1 Place Gabriel Péri
+      1 La Guillotière
+      1 Saint-Étienne
+      1 Auvergne
+      1 Grand-rue
+      1 Amiens
+      1 Somme
+      1 Glisy
+      1 Rouen
+      1 Haute-Normandie
+      1 Besançon
+      1 Doubs
+      1 Grandvillars
+      1 Lille
+      1 Nord
+      1 Havre
+      1 Haute-Normandie
+      1 Tarbes
+      1 Hautes-Pyrénées
+      1 Foix
+      1 Ariège
+      1 France
+      1 Belgique
+      1 Bruxelles
+      1 Tchad
+      1 France
+      3 Russie
+      1 République de Mordovie
+      1 Saransk
+      1 France
+      1 La Valette
+      1 Var
+      1 A9
+      1 Narbonne Est
+      1 Sigean
+      1 A61
+      1 Lézignan
+      1 Brest
+      1 Pen-ar-C’hleuz
+      1 Cavale Blanche
+      1 Mescoden
+      1 Niort
+      1 Deux-Sèvres
+      1 Hérault
+      1 Glisy
+      1 Somme
+      1 Marseille
+      1 Vaucluse
+      1 Paris
+      1 France
+      1 Paris
+      3 France
+      1 RN 106
+      1 Dions
+      1 Gard
+      1 Ifs
+      1 Calvados
+      1 Nogent-le-Rotrou
+      1 Eure-et-Loire
+      1 place Sully
+      1 Nogent-le-Rotrou
+      1 Margon
+      1 Romilly-sur-Seine
+      1 Bourgogne
+      1 Aube
+      2 Paris
+      1 france
+      1 Perpignan-Sud
+      1 A9
+      1 Châlons-en-Champagne
+      1 Marne
+      1 Châlons
+      1 Paris
+      1 Lamballe
+      1 Côtes-d'Armor
+      1 Lanjouan
+      1 Vaucluse
+      1 Gard
+      1 France
+      1 Pringy
+      1 Haute-Savoie
+      2 France
+      1 Nelson
+      1 Romilly-sur-Seine
+      1 Aube
+      1 Boule-d’Or
+      1 Boulogne
+      1 Pas-de-Calais
+      1 Boulogne-sur-Mer
+      1 Calais
+      1 Montmartre
+      1 France
+      1 Jura
+      2 France
+      1 Chalon-sur-Saône
+      1 Saône-et-Loire
+      1 France
+      1 Saône-et-Loir
+      1 Lux
+      1 Montchanin
+      1 Magny
+      1 Somain
+      1 Nord
+      1 Lorient
+      1 Bretagne
+      1 Château-Thierry
+      1 Aisne
+      1 Châteauroux
+      1 Indre
+      1 Chemaudin
+      1 Doubs
+      1 A36
+      1 Malakoff
+      1 Agen
+      1 A62
+      1 Passage d'Agen
+      1 Agen
+      1 Lot-et-Garonne
+      1 Paris
+      1 Arc de Triomphe
+      1 A1
+      1 A4
+      1 A16
+      1 A29
+      1 A7
+      1 A9
+      1 A20
+      1 A61
+      1 A62
+      1 A8
+      1 A50
+      1 A51
+      1 A11
+      1 A42
+      1 Lille
+      3 France
+      1 Bataclan
+      1 Sénégal
+      2 Dakar
+      2 Japon
+      1 Osaka
+      2 Allemagne
+      1 Stuttgart
+      1 France
+      1 Chapelle-Saint-Luc
+      1 Aube
+      1 Concarneau
+      1 Bretagne
+      1 Boissière
+      1 Mende
+      1 Lozère
+      1 faubourg Saint-Honoré
+      1 Paris
+      1 Élysée
+      1 A11
+      1 Ancenis
+      1 Loire-Atlantique
+      1 France
+      1 Mecafor
+      1 Ussel
+      1 Corrèze
+      1 côte des Mazures
+      1 Revin
+      1 Ardennes
+      1 Fournès
+      1 Gard
+      1 A9
+      1 Génelard
+      1 Saône-et-Loire
+      1 Renty
+      1 Pas-de-Calais
+      1 Saint-Avold
+      1 Moselle
+      1 Longeville-lès-Saint-Avold
+      1 Sorgues
+      1 Vaucluse
+      1 A7
+      1 Avignon
+      1 Vaucluse
+      1 Avignon-Nord
+      1 A7
+      1 France
+      1 Nîmes
+      1 Loir-et-Cher
+      1 Belgique
+      1 Citadelle de Namur
+      1 Bouge
+      1 Monbalen
+      1 Lot-et-Garonne
+      1 D70
+      1 Montain
+      1 Jura
+      1 France
+      1 radars-auto.com
+      1 Lot-et-Garonne
+      1 Haute-Normandie
+      1 France
+      1 Oloron
+      1 Pyrénées-Atlantiques
+      1 Portugal
+      1 Porte d'Aspe de Gurmençon
+      1 Gurmençon
+      2 Ain
+      1 Saint-Vulbas
+      1 Sainte-Julie
+      1 Blyes
+      1 Chevigny
+      1 Crimolois
+      1 Côte-d'Or
+      1 D 905
+      1 D 905bis
+      1 A 39
+      1 La Seyne-sur-Mer
+      1 Var
+      1 Roanne
+      1 Loire
+      1 Bormes
+      1 Var
+      1 Brégançon
+      1 D42d
+      1 Angoulême
+      1 Saint-Vaury
+      1 Creuse
+      1 Haveluy
+      1 Nord
+      1 salle Droulez
+      1 Champs-Élysées
+      1 Loir-et-Cher
+      1 Sarthe
+      1 Argœuves
+      1 Somme
+      1 A16
+      1 Feyzin
+      1 Rhône
+      1 Saint-Vaury
+      1 Creuse
+      1 Fouqueville
+      1 Eure
+      1 Neubourg
+      1 Elbeuf
+      1 L’Escapade
+      1 Sainte-Savine
+      1 Bourgogne
+      1 Aube
+      1 Brégançon
+      1 Var
+      1 Manjastre
+      1 Bormes-les-Mimosas
+      1 Lux
+      1 Saône-et-Loire
+      1 Chalon-Sud
+      1 A6
+      1 Hirson
+      1 Aine
+      1 Charleville
+      1 Belgique
+      1 Thuin
+      1 N54
+      1 Jeumont
+      1 Courcelles
+      1 N5
+      1 Couillet
+      1 E16
+      1 Houdeng
+      1 Lot-et-Garonne
+      1 Villeneuve-sur-Lot
+      1 Soubirous
+      1 Moirax
+      1 Savoie
+      1 Bourget-du-Lac
+      1 Surmoulin
+      1 Dracy-Saint-Loup
+      1 Saône-et-Loire
+      1 Kervignac
+      1 Bretagne
+      1 RN 165
+      1 Angoulême
+      1 Charente
+      1 Girac
+      1 Locatoumat
+      1 Soyaux
+      1 Cognac
+      1 Trache
+      1 France
+      1 Lisieux
+      1 Eure
+      1 Toulouse
+      1 Biarritz
+      1 Grande plage
+      1 Lot-et-Garonne
+      1 Nérac
+      1 RD 930
+      1 Vianne
+      1 RD 920
+      1 Saumur
+      1 Maine-et-Loire
+      1 Gilets jaunes
+      1 Auxerre
+      1 Yonne
+      1 Saint-Jean-de-Thouars
+      1 Deux-Sèvres
+      1 Talencia
+      1 Avignon Nord
+      1 Essonne
+      1 Paris
+      1 Bourgoin-Jallieu
+      1 Isère
+      1 avenue des Champs-Élysées
+      1 Champs-Elysées-Clemenceau
+      1 Champs-Élysées
+      1 France
+      1 Senlis
+      1 Bordeaux
+      1 Gironde
+      1 Aquitaine
+      1 Bordeaux-Lac
+      2 Champs-Élysées
+      1 Paris
