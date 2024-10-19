@@ -70,3 +70,7 @@ wait est-ce qu'il fallait retrier les locations mais pour 1 mois? jsp ces consig
 Cette ligne doit rester après correction
 
 Mon git est sans arrêt bloqué à chaque fois que je fais les manipulations ce qui veut dire que clairement j'ai pas du tout compris comment faire donc je vais arrêter de cloner et recloner pour pouvoir recommencer à chaque fois car ça marche vraiment pas et j'attendrais des explications plus en détails pour pouvoir avoir toutes les compétences pour pouvoir gérer ce hellhole qu'est github.
+
+## EX SCRIPTS
+
+Pour l'exercice 1, juste écrit la ligne #!/usr/bin/bash , puis coller le travail de la question du devoir précédent.
