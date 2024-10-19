@@ -73,4 +73,22 @@ Mon git est sans arrêt bloqué à chaque fois que je fais les manipulations ce 
 
 ## EX SCRIPTS
 
-Pour l'exercice 1, juste écrit la ligne #!/usr/bin/bash , puis coller le travail de la question du devoir précédent.
+- Pour l'exercice 1, juste écrit la ligne #!/usr/bin/bash , puis coller le travail de la question du devoir précédent.
+
+- Pour l'exercice 2a, même chose, juste transformé l'argument de grep avec une variable et l'année aussi(bien mettre $ avant le nom de la variable renommée).Dans script2: appel de l'autre script dans le script, RAS
+
+- 2b: pour mettre une variable dans un argument, la mettre entre ""
+
+mais avec * pour mois et année:
+
+`cat: '../../../ann/classement2016.txt/*_classement2017.txt_*': No such file or directory
+tail: invalid number of lines: ‘classement2018.txt’` ?????????????????? jen ai marre de problème dont jai pas limpression quon ma donné ce quil fallait pour le résoudre
+why the fuck il prendrait le nom de fichier qui se trouve dans le dossier ou se trouve le fichier shell, genre je sais pas machine, fait un effort parce que à certains moments ce truc est débile
+
+donc non il accepte pas * parce que même en relisant le cours je trouve pas de solution et trois pages internet plus tard j'en sais pas plus alors je sais pas si je suis plus bête que les autres mais wtf
+
+
+
+
+
+
