@@ -87,8 +87,8 @@ why the fuck il prendrait le nom de fichier qui se trouve dans le dossier ou se 
 
 donc non il accepte pas * parce que même en relisant le cours je trouve pas de solution et trois pages internet plus tard j'en sais pas plus alors je sais pas si je suis plus bête que les autres mais wtf
 
+- 3: utiliser les conditions if [-f file, -d dossier] pour vérifier les arguments
 
-
-
+- 4: fait une boucle for à la place de mettre plusieurs fois echo et cat etc
 
 
