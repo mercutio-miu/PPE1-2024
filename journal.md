@@ -91,4 +91,11 @@ donc non il accepte pas * parce que même en relisant le cours je trouve pas de 
 
 - 4: fait une boucle for à la place de mettre plusieurs fois echo et cat etc
 
+- ->si la variable # est différente de 1 alors stdout = "ce programme demande un argument" et arrêter le script avec explications (donc s'il n'y a pas un argument quitter le programme avec un message d'erreur)
+->la variable FICHIER_URLS est le premier arg, OK est égale à 0 et NOK aussi
+->tant que lecture de LINE (lecture dans variable FICHIER_URLS qui devrait être un fichier avec peute^tre des url sur certaines lignes):
+stdout "la ligne:"+valeur de LINE
+si la ligne commence par https:// s optionnel, stdout = "ressemble à une URL valide" et OK += 1, sinon stdout = "ne ressemble pas à une url" et NOK += 1
+quand fini de lire FICHJER_URL stdout = "nouvellevaleur de OKS + URLS et nouvelle valeurs de NOK + lignes douteuses"
+soit c'est un programme pour reconnaitrecombien de lignes sur lesquelles se trouve possiblement un URL ou non.
 
