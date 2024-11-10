@@ -99,3 +99,25 @@ si la ligne commence par https:// s optionnel, stdout = "ressemble à une URL va
 quand fini de lire FICHJER_URL stdout = "nouvellevaleur de OKS + URLS et nouvelle valeurs de NOK + lignes douteuses"
 soit c'est un programme pour reconnaitrecombien de lignes sur lesquelles se trouve possiblement un URL ou non.
 
+## MINI PROJET
+
+### Ex 1
+- 1 cat demande pour argument un nom de fichier, donc on utilise echo:
+\>> cat: 'https://fr.wikipedia.org/wiki/Robot': No such file or directory
+
+- 2 avec boucle if on vérifie que le nombre d'argument est 1: (si le nombre d'arguments est différent de 1, meassage d'erreur et exit)
+
+- 3 en utilisant une variable qui augmente de 1 à chaque fois qu'elle passe dans la boucle while et en mettant une chaine de caractère dans echo (pas besoin de \t appremment juste utiliser tab du clavier = ok ?)
+
+### Ex 2
+
+- 1 (utilisation du code dans le cours du script pour ne traiter que les lignes avec des url appremment valide)
+essai avec  `curl -L -I ${line} | egrep -o "HTTPS?/[0-2](.[0-9][0-9]?)?"`
+            `curl -L -I ${line} | egrep -o "charset=.*"`
+    mais on se retrouve avec:
+\>>   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0 45914    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+et je sais pas comment l'enlever. et j'arrive à rien avec curl et jen ai marre
+
+
