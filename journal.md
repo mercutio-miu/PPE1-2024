@@ -121,3 +121,8 @@ essai avec  `curl -L -I ${line} | egrep -o "HTTPS?/[0-2](.[0-9][0-9]?)?"`
 et je sais pas comment l'enlever. et j'arrive à rien avec curl et jen ai marre
 
 
+## MINI PROJET 2
+
+correction du miniprojet1 pour faire la partie 2.
+
+<b>transformation HTML:</b> implémentation des balises dans la rédaction du fichier à extension html

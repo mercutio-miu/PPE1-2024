@@ -7,15 +7,16 @@ then
 fi
 
 urlfile=$1
-N=0
+N=1
 while read -r line
 do
     if [[ $line =~ ^https?:// ]]
     then
+        http=$( curl  -s -L -I -w "%{http_code}" ${line} | tail -n 1 )
+        encod=$(curl -s -L -I -w "%{content_type}" -o dev/null ${line} | egrep -o "charset=\S+" | cut -d '=' -f2)
+        nbmots=$( lynx -dump -nolist $line | wc -w )
+        echo -e "$N\t${line}\t$http\t$encod\t$nbmots" >> "tableaux/tableauurl.tsv"
         N=$( expr $N + 1)
-        http=$( curl -L -I ${line} | egrep -o "HTTPS?/[0-2](.[0-9][0-9]?)?" )
-        curl=$(curl -L -I ${line} | egrep -o "charset=.*")
-        echo"$N	${line}    $http    $encod"
     fi
 done < $urlfile
 
